@@ -3,7 +3,7 @@
 <p>
 Sou um desenvolvedor com foco em desenvolvimento de back-end com experiência na criação de aplicativos inteligentes e escaláveis usando C# | .NET | Golang.</br>
 
-Atualmente estou construindo softwares na DB1 Global.
+Atualmente estou construindo softwares na Ambev Tech.
 
 </p>
 
