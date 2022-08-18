@@ -1,9 +1,9 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Sou Sérgio Murilo Oliveira</h1>
 
 <p>
-Sou um desenvolvedor com foco em desenvolvimento de back-end com experiência na criação de aplicativos inteligentes e escaláveis usando C# | .NET | Golang.</br>
+Sou um desenvolvedor com foco em desenvolvimento de back-end com experiência na criação de aplicativos inteligentes e escaláveis usando Clojure | Golang | C# | .NET.</br>
 
-Atualmente estou construindo softwares utilizando golang na Hash.
+Atualmente estou construindo softwares utilizando clojure no Nubank.
 
 </p>
 
